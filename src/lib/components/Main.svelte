@@ -6,7 +6,7 @@
 	<div class="text-container">
 		<p>
 			Looking for Jeff MacInnes? Head over to
-			<a href="decimalpoint.studio">Decimal Point Studio</a>
+			<a href="https://www.decimalpoint.studio">Decimal Point Studio</a>
 		</p>
 	</div>
 
