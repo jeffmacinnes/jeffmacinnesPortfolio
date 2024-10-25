@@ -1,3 +1,7 @@
+# Jeff MacInnes Portfolio site
+
+Mainly a redirect to decimalpoint.studio
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).

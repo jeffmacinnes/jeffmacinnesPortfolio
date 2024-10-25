@@ -1,6 +1,5 @@
 <script>
-	import logo from '$lib/assets/DecimalPointLogo.png';
-	import Greeting from '$lib/components/Greeting.svelte';
+	import Main from '$lib/components/Main.svelte';
 </script>
 
 <svelte:head>
@@ -9,12 +8,7 @@
 </svelte:head>
 
 <section>
-	<h1>SvelteKit Template for Decimal Point</h1>
-	<Greeting />
-
-	<div class="bg-image">
-		<img src={logo} alt="" />
-	</div>
+	<Main />
 </section>
 
 <style>
@@ -24,16 +18,5 @@
 		justify-content: center;
 		align-items: center;
 		flex: 0.6;
-	}
-
-	.bg-image {
-		position: absolute;
-		top: 0;
-		left: 0;
-		width: 100%;
-	}
-
-	h1 {
-		width: 100%;
 	}
 </style>
